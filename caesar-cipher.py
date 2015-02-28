@@ -1,5 +1,5 @@
 # francis caccavale
-# caesarcipher.py
+# caesar-cipher.py
 
 # this is a caesar cipher encryptor and decryption, each function running in O(n*26). 
 # 26 being the length of the alphabet. 
